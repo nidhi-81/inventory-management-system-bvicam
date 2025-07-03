@@ -28,9 +28,7 @@ Developed as a practical implementation of real-world role-based access, secure 
 - Databse : MSSQL 
 - JWT for authentication
 
-## 🛠️ Project Structure
-
-## 🛠️ Project Structure
+## Project Structure
 
 /stock_mgm
 ├── /frontend
