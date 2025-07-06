@@ -64,3 +64,6 @@ node server.js
 cd frontend
 npm install
 npm start
+```
+---
+## Developed by **NIDHI GUPTA** 
